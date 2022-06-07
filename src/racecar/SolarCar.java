@@ -1,4 +1,4 @@
-package co.grandcircus;
+package racecar;
 
 public class SolarCar extends Racer {
 	
